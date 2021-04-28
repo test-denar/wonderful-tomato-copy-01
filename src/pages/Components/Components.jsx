@@ -52,7 +52,7 @@ class Components extends React.Component {
               <GridItem>
                 <div className={classes.brand}>
                   <h1 className={classes.title}> 
-                    <a href="https://www.gatsbyjs.org/">Gatsby</a> Material Design 
+                    <a href="https://www.gatsbyjs.org/">Gatsby</a> Material Design!!!! 
                   </h1>
                   <h3 className={classes.subtitle}>
                     <a href="https://github.com/app-generator/gatsby-material-kit-react">Open-Source</a> app, released under the MIT license.
